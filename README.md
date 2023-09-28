@@ -1,4 +1,4 @@
-### 안녕 나는 쿠로미 👋
+### 황서이
 
 <!--
 **Hwang-seo-i/Hwang-seo-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
